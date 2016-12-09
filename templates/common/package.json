@@ -1,0 +1,10 @@
+{
+  "author": "Juho Vepsalainen <bebraw@gmail.com> (http://github.com/bebraw)",
+  "license": "MIT",
+  "devDependencies": {
+    "git-prepush-hook": "^1.0.1"
+  },
+  "pre-push": [
+    "test:all"
+  ]
+}
