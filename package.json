@@ -1,6 +1,6 @@
 {
   "name": "@bebraw/project-defaults",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Defaults to share across projects",
   "main": "./src",
   "bin": "./bin",
