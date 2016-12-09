@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "description": "Defaults to share across projects",
   "main": "./src",
-  "bin": "./bin",
+  "bin": "./bin/index.js",
   "scripts": {
     "test": "node src/test.js",
     "watch": "npm-watch"
